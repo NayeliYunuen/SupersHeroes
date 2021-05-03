@@ -1,13 +1,13 @@
 * {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-weight: 200;
     }
     
     html, body {
     
-     background: rgba(203, 158, 221, 0.87);
+     background: rgb(218, 150, 214);
     margin: 20px;
-    color: #2c091a;
+    color: #4e314c;
     -webkit-font-smoothing: antialiased;
     }
     
@@ -16,7 +16,7 @@
     }
     
     button {
-    background-color: rgb(145, 10, 73);
+    background-color: rgb(126, 43, 115);
     border-radius: 5px;
     border: 0px;
     color: white;
@@ -27,7 +27,7 @@
     }
     
     button:hover {
-    background-color: rgb(145, 10, 73);
+    background-color: rgb(126, 43, 115);
     }
     
     button:focus{
